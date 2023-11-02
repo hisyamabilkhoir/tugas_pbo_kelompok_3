@@ -2,7 +2,7 @@
 
 include_once "Hewan.php";
 
-class Kelinci implements Hewan
+class Anjing implements Hewan
 {
     public function berkomunikasi(): void
     {
